@@ -1,1 +1,1 @@
-# git-practice
+# My codingGita Learning journey
