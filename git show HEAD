@@ -1,0 +1,20 @@
+[33mcommit 003efabe6523c2601f6d1aa06dcf5d160d7c628e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: navazsaiyadcg <navaz.i.saiyad.cg@gmail.com>
+Date:   Mon Aug 18 22:25:16 2025 +0530
+
+    Update index.html
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex d01f779..a3cff60 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -6,6 +6,6 @@[m
+     <title>Document</title>[m
+ </head>[m
+ <body>[m
+[31m-    [m
+[32m+[m[32m"navaz saiyad"[m[41m    [m
+ </body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m</html>[m
