@@ -1,7 +1,9 @@
-# My codingGita Learning journey
+# codingGita Project
 
-## What I Learned Today
+A learning project to understand Git and version control.
 
-- Git helps track changes in my code
-- I can always go back to previous versions
-- This is like having a super-smart backup system!
+## Project Structure
+- css/: Styling files
+- js/: JavaScript files
+- images/: Project images
+- docs/: Project documentation
